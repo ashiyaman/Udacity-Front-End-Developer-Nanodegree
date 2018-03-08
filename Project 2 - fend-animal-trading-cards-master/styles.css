@@ -1,0 +1,13 @@
+body{
+  width: 300px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.border {
+  border: 1px solid #ddd;
+  padding: 1em;
+}
